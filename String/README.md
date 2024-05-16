@@ -1,5 +1,5 @@
 # String
-Javascript string and string string method 
+Javascript string and string method 
 
 to run this file need to install nodejs
 
