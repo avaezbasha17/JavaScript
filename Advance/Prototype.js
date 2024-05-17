@@ -22,3 +22,4 @@ let per = "86%"
         Object.setPrototypeOf(person,address);
         Object.setPrototypeOf(person,job);
         console.log(person.area);
+        
